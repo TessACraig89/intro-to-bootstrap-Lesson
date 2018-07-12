@@ -1,6 +1,24 @@
 #container {
   border: solid red 2px;
+  width: 200px;
+  height: 200px;
 }
 .shout {
   text-transform: uppercase;
+}
+#row1 {
+  border: solid purple 2px;
+  width: 100px;
+  height: 100px;
+}
+#col1 {
+  border: yellow solid 2px;
+  width: 15px;
+  height: 15px;
+}
+
+#col2 {
+  border: green solid 2px;
+  width: 15px;
+  height: 15px;
 }
